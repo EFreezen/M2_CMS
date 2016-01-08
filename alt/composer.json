@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "require": {
+    "php-activerecord/php-activerecord": "^1.1",
+    "typo3fluid/fluid": "dev-master"
+  },
+  "autoload":{
+      "psr-4":{
+        "Fbreuer\\MetinCms\\": "php"
+      }
+  }
+}
