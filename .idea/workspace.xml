@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e43fb397-ca92-4114-8275-e74603239bfb" name="Default" comment="Update">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Layouts/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Blank-page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Bootstrap-elements.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Bootstrap-grid.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Charts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Forms.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/Templates/Tables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/art/avatar_2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/art/fantasy_landscape.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/art/profil-bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/composer.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/composer.phar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/bootstrap-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/bootstrap-rtl.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/plugins/morris.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/sb-admin-rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/css/sb-admin.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/spinning.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_spinning.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/font-awesome/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/excanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/flot-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/jquery.flot.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/jquery.flot.pie.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/jquery.flot.resize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/flot/jquery.flot.tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/morris/morris-data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/morris/morris.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/morris/morris.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/external/bootstrap/js/plugins/morris/raphael.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/inc/internal/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/php/Controller/AbstractController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/php/Controller/StandardController.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/php/User.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/autoload.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/ClassLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/autoload_classmap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/autoload_files.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/autoload_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/autoload_psr4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/autoload_real.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/composer/installed.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/ActiveRecord.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/CHANGELOG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/orders/models/Order.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/orders/models/Payment.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/orders/models/Person.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/orders/orders.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/orders/orders.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/simple/simple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/simple/simple.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/simple/simple_with_options.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/examples/simple/simple_with_options.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Cache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/CallBack.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Column.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Connection.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/ConnectionManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/DateTime.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Exceptions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Expressions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Inflector.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Model.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Reflections.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Relationship.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/SQLBuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Serialization.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Singleton.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Table.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Utils.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/Validations.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/adapters/MysqlAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/adapters/OciAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/adapters/PgsqlAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/adapters/SqliteAdapter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/lib/cache/Memcache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/phpunit.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ActiveRecordCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ActiveRecordFindTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ActiveRecordTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ActiveRecordWriteTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/CacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/CallbackTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ColumnTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ConfigTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ConnectionManagerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ConnectionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/DateFormatTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/DateTimeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ExpressionsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/HasManyThroughTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/InflectorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ModelCallbackTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/MysqlAdapterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/OciAdapterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/PgsqlAdapterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/RelationshipTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/SQLBuilderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/SerializationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/SqliteAdapterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/UtilsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidatesFormatOfTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidatesInclusionAndExclusionOfTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidatesLengthOfTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidatesNumericalityOfTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidatesPresenceOfTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/ValidationsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/amenities.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/authors.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/awesome_people.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/books.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/employees.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/events.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/hosts.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/newsletters.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/positions.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/property.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/property_amenities.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/rm-bldg.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/user_newsletters.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/users.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/valuestore.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/fixtures/venues.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/AdapterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/DatabaseLoader.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/DatabaseTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/SnakeCase_PHPUnit_Framework_TestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/config.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/helpers/foo.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Amenity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Author.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/AwesomePerson.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Book.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/BookAttrAccessible.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Employee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Event.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Host.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/JoinAuthor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/JoinBook.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/NamespaceTest/Book.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/NamespaceTest/SubNamespaceTest/Page.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Position.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Property.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/PropertyAmenity.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/RmBldg.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/Venue.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/VenueAfterCreate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/models/VenueCB.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/mysql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/oci-after-fixtures.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/oci.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/pgsql-after-fixtures.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/pgsql.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/php-activerecord/php-activerecord/test/sql/sqlite.sql" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/.coveralls.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/bin/fluid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/composer.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_CREATING_VIEWHELPERS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_EXPRESSIONS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_IMPLEMENTATION.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_STRUCTURE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_SYNTAX.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/FLUID_VIEWHELPERS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/doc/README_TYPO3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/ResourceOverrides/Private/Layouts/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/ResourceOverrides/Private/Partials/SecondPartial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/ResourceOverrides/Private/Templates/Default/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Layouts/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Layouts/Default.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Partials/FirstPartial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Partials/SecondPartial.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Partials/Structures.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Conditions.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/CustomResolving.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/LayoutLess.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Math.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/NamespaceResolving.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Namespaces.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Single.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Structures.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/VariableProvider.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Singles/Variables.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Templates/Default/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Templates/Default/OtherFormat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Templates/Other/Default.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/Resources/Private/Templates/Other/List.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/cache/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_conditions.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_customresolving.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_format.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_layoutless.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_math.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_multiplepaths.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_mvc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_namespaceresolving.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_namespaces.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_single.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_structures.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_variableprovider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/example_variables.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/include/class_customvariableprovider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/include/class_customviewhelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/include/class_customviewhelperresolver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/examples/include/view_init.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/phpunit-functional.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/phpunit-profiling.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/phpunit.xml.dist" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Cache/FluidCacheInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Cache/SimpleFileCache.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Compiler/AbstractCompiledTemplate.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Compiler/NodeConverter.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Compiler/TemplateCompiler.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/Configuration.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/Interceptor/Escape.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/InterceptorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/ParsedTemplateInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/ParsingState.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/Patterns.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/AbstractNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/ArrayNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/BooleanNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/EscapingNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/Expression/AbstractExpressionNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/Expression/CastingExpressionNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/Expression/ExpressionNodeInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/Expression/MathExpressionNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/Expression/TernaryExpressionNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/NodeInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/NumericNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/ObjectAccessorNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/RootNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/TextNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/SyntaxTree/ViewHelperNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/TemplateParser.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/TemplateProcessor/NamespaceDetectionTemplateProcessor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/TemplateProcessorInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Parser/UnknownNamespaceException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Rendering/RenderingContext.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Rendering/RenderingContextInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Variables/ChainedVariableProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Variables/JSONVariableProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Variables/StandardVariableProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Variables/VariableExtractor.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/Variables/VariableProviderInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/AbstractConditionViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/AbstractTagBasedViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/AbstractViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/ArgumentDefinition.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/Exception/InvalidVariableException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/TagBuilder.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/ViewHelperInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/ViewHelperInvoker.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/ViewHelperResolver.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Core/ViewHelper/ViewHelperVariableContainer.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/AbstractTemplateView.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/AbstractView.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/Exception.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/Exception/InvalidSectionException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/Exception/InvalidTemplateResourceException.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/TemplatePaths.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/TemplateView.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/View/ViewInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/AliasViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/CaseViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/CommentViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/CountViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/CycleViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/DebugViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/DefaultCaseViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/ElseViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/ForViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/Format/CdataViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/Format/HtmlspecialcharsViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/Format/PrintfViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/Format/RawViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/GroupedForViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/IfViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/LayoutViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/OrViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/RenderViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/SectionViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/SpacelessViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/SwitchViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/src/ViewHelpers/ThenViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/BaseTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Bootstrap.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Functional/BaseFunctionalTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Functional/Cases/Conditions/BasicConditionsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Functional/Cases/Conditions/VariableConditionsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Functional/Cases/SwitchTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Functional/ExamplesTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Profiling/Parser/TemplateSourceParsingProfileStatisticsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Cache/SimpleFileCacheTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Compiler/AbstractCompiledTemplateTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Compiler/NodeConverterTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Compiler/TemplateCompilerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Fixtures/TestViewHelper.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Fixtures/TestViewHelper2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/ConfigurationTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture01-shorthand-split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture01-shorthand.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture06-split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture14-split.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Fixtures/TemplateParserTestFixture14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/Interceptor/EscapeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/ParsingStateTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/AbstractNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/BooleanNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/Expression/CastingExpressionNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/Expression/MathExpressionNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/Expression/TernaryExpressionNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/NumericNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/ObjectAccessorNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/RootNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/TextNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/SyntaxTree/ViewHelperNodeTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/TemplateParserPatternTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Parser/TemplateParserTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Rendering/RenderingContextFixture.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Rendering/RenderingContextTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Variables/ChainedVariableProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Variables/JSONVariableProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Variables/StandardVariableProviderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/Variables/VariableExtractorTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/AbstractConditionViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/AbstractTagBasedViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/AbstractViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/ArgumentDefinitionTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/TagBuilderTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/ViewHelperInvokerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/ViewHelperResolverTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/Core/ViewHelper/ViewHelperVariableContainerTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/AbstractTemplateViewTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/AbstractViewTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/Fixtures/LayoutFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/Fixtures/TemplateViewSectionFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/Fixtures/TransparentSyntaxTreeNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/Fixtures/UnparsedTemplateFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/View/TemplatePathsTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/AliasViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/CaseViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/CommentViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/CountViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/CycleViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/DebugViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/DefaultCaseViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/ElseViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/ConstraintSyntaxTreeNode.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/IfFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/IfThenElseFixture.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/UserWithToArray.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/UserWithToString.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Fixtures/UserWithoutToString.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/ForViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Format/CdataViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Format/HtmlspecialcharsViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Format/PrintfViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/Format/RawViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/GroupedForViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/IfViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/LayoutViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/OrViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/RenderViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/SectionViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/SpacelessViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/SwitchViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/ThenViewHelperTest.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/Unit/ViewHelpers/ViewHelperBaseTestcase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/alt/vendor/typo3fluid/fluid/tests/UnitTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/items.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/archives/maps.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/captcha/bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/captcha/captcha.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/captcha/franconi.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/captcha/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/daten.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/functions.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/head.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/btn2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/con-bot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/con-mid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/con-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/footer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/head.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/input.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/navi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/navi_trenn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sb-bot.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sb-mid.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/sb-top.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider-btn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/slider-over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/status_navi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/status_trenn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/top5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/trennlinie.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/buy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/coins.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/fail.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/21.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/23.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/41.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/61.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/62.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/63.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/64.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/65.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/67.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/68.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/71.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/74.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/75.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/77.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/78.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/maps/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/paysafecard.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/1_kl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/2_kl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/3_kl.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/reiche/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/slider/2.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/success.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/config.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/daten.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/functions.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/head.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/loginbar.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/navi.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/rights.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/status.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/inc/top5.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/is_img/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsp/jquery.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsp/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsp/slide.core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/jsp/status.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/loginbar.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/navi.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/add_coins_multi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/admins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/ban.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/banliste.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/cache/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/change_rates.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/char.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/charlist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/chars.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/coins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/create_item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/gadmins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/img_stats.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/ipban.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/iplist.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_item_add.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_item_delete.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_item_edit.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_items.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_kat.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/is_log.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/item_attr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/item_attr_rare.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/itemsuche.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/map.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/news_delete.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/news_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/rights.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/statistiken.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/unban.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/user.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/users.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/voucher.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/voucher_add.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/admin/voucher_edit.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/char.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/charaktere.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/downloads.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/events.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/home.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/is_buy.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/itemshop.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/login.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/logout.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/lostpw.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/passwort.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/ranking_gilden.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rankings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pages/rankings_ol.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rights.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/status.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/top5.php" afterPath="" />
+    </list>
+    <ignored path="M2_CMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="M2_CMS" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eduard" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="y" value="40" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M2_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M2_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="M2_CMS2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e43fb397-ca92-4114-8275-e74603239bfb" name="Default" comment="" />
+      <created>1452283106182</created>
+      <option name="number" value="Default" />
+      <updated>1452283106182</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1452283284130</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1452283284130</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="40" width="960" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5084746" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
